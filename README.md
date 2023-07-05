@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BARROS
+- 👋 Hi, I’m @RobertBB
 - 👀 I’m interested in development of programs and games
 - 🌱 I’m currently learning systems development
 - 💞️ I’m looking to collaborate on everything that adds knowledge
